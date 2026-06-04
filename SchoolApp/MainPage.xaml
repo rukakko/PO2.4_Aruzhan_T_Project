@@ -28,5 +28,7 @@
         <Button Text="Open students list"
                 Clicked="OnOpenStudentsClicked"
                 HorizontalOptions="Center" />
+        <Button Text="Shout the name"
+                Clicked="OnShoutClicked" />
     </VerticalStackLayout>
 </ContentPage>
